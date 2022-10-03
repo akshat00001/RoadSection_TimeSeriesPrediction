@@ -11,5 +11,6 @@
 * Create graphs for comparing actual values with predicted values for Parameter-9 to Parameter-13 for the 10th year.
 ## Model Used 
 ## Metric Used
-* RMSE: Root Mean Square Error
-![picture ](https://media.geeksforgeeks.org/wp-content/uploads/20200622171741/RMSE1.jpg "RMSE")
+* ![picture ](https://media.geeksforgeeks.org/wp-content/uploads/20200622171741/RMSE1.jpg "RMSE")
+## Methodology Used
+* Transformed the Data into Train and Test Dataset, by extracting 10th year data for parameter 9- parameter 13 for every section. Applied Extra Regressor Model to implent random forest and predicted the values
