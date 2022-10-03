@@ -12,4 +12,4 @@
 ## Model Used 
 ## Metric Used
 * RMSE: Root Mean Square Error
-![picture alt](https://media.geeksforgeeks.org/wp-content/uploads/20200622171741/RMSE1.jpg "RMSE")
+![picture ](https://media.geeksforgeeks.org/wp-content/uploads/20200622171741/RMSE1.jpg "RMSE")
